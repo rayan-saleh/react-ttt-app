@@ -1,0 +1,8 @@
+nine buttons in 3x3
+first X:
+    when user clicks, it prints in button
+    then checks if winner (can do this by checking if user is filled in any of the 8 possible win states)
+    then moves to O
+
+restart button clears everything, sets player as X
+history stores the state of the overall button configs (object?)
